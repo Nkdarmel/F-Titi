@@ -6,7 +6,9 @@
 ``````
 
 
-Welcome to the **N*Cultural Food Systems Creator**, an open-source desktop application designed to transform creative video content into innovative food systems using Canvas. This tool aims to address multi-seasonal challenges, water scarcity issues, and weather risks by leveraging computer vision technology.
+Welcome to the **N*Cultural Food Systems Creator**,
+
+An open-source desktop application designed to transform creative video content into innovative food systems using Canvas. This tool aims to address multi-seasonal challenges, water scarcity issues, and weather risks by leveraging computer vision technology.
 
 ## Features
 
