@@ -1,7 +1,7 @@
 # F-Titi
 
 
-![[![GitHub](https://img.shields.io/badge/GitHub-F-5EFA00.svg)](https://github.com/Nkdarmel/F-Titi/edit/main/README.md);
+[[![GitHub](https://img.shields.io/badge/GitHub-F-5EFA00.svg)](https://github.com/Nkdarmel/F-Titi/edit/main/README.md);
 
 ``````
 
